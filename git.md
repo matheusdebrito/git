@@ -19,3 +19,9 @@ git reset --soft (hash do commit) -> restaura o commit selecionado preservando o
 git reset --hard (hash do commit) -> restaura o commit selecionado perdendo os arquivos dos commits
 
 git reset nome do arquivo -> retira o arquivo da área de prepação
+
+git remote add origin url do repositório -> adiciona origem (primeiro criar o repositório no github)
+
+git branch -M main -> define a branch
+
+git push -u origin main -> envia as alterações para o diretorio no github
