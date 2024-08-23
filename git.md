@@ -1,6 +1,6 @@
-# git configure --global user.name -> configura o nome
+# git config --global user.name -> configura o nome
 
-# git configure --global user.emil -> configura o email
+# git config --global user.emil -> configura o email
 
 # git init -> Inicia o git na pasta
 
